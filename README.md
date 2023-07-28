@@ -1,0 +1,2 @@
+# FileCompressor
+Huffman Coding Application
